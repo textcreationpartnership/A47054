@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A token of Christian love, in several sober considerations receiving the Holy Sacrament, which in holy Scripture is called, The Supper of the Lord. Most humbly and faithfully presented unto all sorts of Protestants for their comfort in a right receiving of it, and for prevention of those miseries that may follow the receiving of it unworthily. By James Jones citizen of London.</title>
+            <author>Jones, James, fl. 1683-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47054</idno>
+            <idno type="STC">Wing J960</idno>
+            <idno type="STC">ESTC R213926</idno>
+            <idno type="EEBO-CITATION">99826175</idno>
+            <idno type="PROQUEST">99826175</idno>
+            <idno type="VID">30567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A token of Christian love, in several sober considerations receiving the Holy Sacrament, which in holy Scripture is called, The Supper of the Lord. Most humbly and faithfully presented unto all sorts of Protestants for their comfort in a right receiving of it, and for prevention of those miseries that may follow the receiving of it unworthily. By James Jones citizen of London.</title>
+                  <author>Jones, James, fl. 1683-1684.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Malthus at the Sun in the Poultrey,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30567:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>A TOKEN of Chriſtian Love, In ſeveral Sober Conſiderations concerning Receiving the <hi>Holy Sacrament,</hi> which in holy Scripture is called, <hi>The Supper of the Lord.</hi>
+            </head>
+            <head type="sub">Moſt humbly and faithfully preſented unto all ſorts of Prote<g ref="char:EOLhyphen"/>ſtants for their Comfort in a Right Receiving of it, and for prevention of thoſe Miſeries that may follow the Receiving of it unworthily.</head>
+            <byline>By <hi>James Jones</hi> Citizen of <hi>London.</hi>
+            </byline>
+            <p>
+               <hi>Firſt,</hi> COnſider, That the Sacrament is a holy Ordinance appointed and inſtitu<g ref="char:EOLhyphen"/>ted by a holy Lord, <hi>viz.</hi> Our Lord and Saviour Jeſus Chriſt, at the time of the Paſsover; <hi>The ſame night in which he was betrayed,</hi> Matth. 26.26, 27. 1 Cor. 11.23.</p>
+            <p>
+               <hi>Secondly,</hi> Conſider, That this holy Ordinance was appointed for a holy People, to keep up a holy Remembrance of Chriſt's Death till he come.</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, That in the happy Reign of King <hi>Edward</hi> the Sixth, that be<g ref="char:EOLhyphen"/>ing the time of a bleſſed Reformation from <hi>Romiſh</hi> Idolatry, the Sacrament of the Altar being aboliſhed, this holy Ordinance was eſtabliſhed throughout this Realm, and all other the King's Dominions and Countries; ſee the Statute, 1 <hi>Edward</hi> 6th, Chapter the firſt, Paragraph firſt and 7th</p>
+            <p>
+               <hi>Fourthly,</hi> Conſider, That the Word of God, 1 <hi>Cor.</hi> 11.28. and alſo the forecited Statute doth require, that every man ſhall examine himſelf before he ſhall partake of the ſame, which doth ſuppoſe that they ought to be ſuch as are able to give a true godly Judgmnet of themſelves concerning their own fitneſs: Now, whether all Perſons of the Age of Sixteen years are able thus to do, had need be well con<g ref="char:EOLhyphen"/>ſidered by their Miniſters, by their Parents, and by their Maſters.</p>
+            <p>
+               <hi>Fifthly,</hi> Conſider, in Examining of your ſelves, what may be the beſt Que<g ref="char:EOLhyphen"/>ſtions in the fear of God to put unto your own Souls; and as a Chriſtian help thereunto briefly thus: Have I yet got a holy Heart? Have I yet got a holy Life and Converſation? Are my Sins pardoned? Is my Soul purged by the Blood of the Son of God? Have I yet got Repentance unto life? Have I yet got Faith to the ſaving of my Soul? Is my Soul in perfect hatred of all Sin? Do I find ſpiritual power againſt all Sin? Do I love God ſincerely and tranſcendently? Do I yet love the Word of God, and all them that love God and his Word? Who are the Com<g ref="char:EOLhyphen"/>panions of my delight? Are they thoſe that are godly, or thoſe that are profane and wicked? Have I yet ſeen my danger of Hell, by reaſon of ſin againſt God in wicked Thoughts, in wicked Words, <hi>viz.</hi> Curſing, Swearing, Lying, taking the ho<g ref="char:EOLhyphen"/>ly and glorious Name of God in vain? Have I yet ſeen the danger of my poor Soul, by reaſon of wicked Purpoſes, and wicked Practices? And have I been yet born again? foraſmuch as Chriſt hath ſaid, <hi>Except a man be born again he cannot ſee the Kingdom of God,</hi> Joh. 3.3, 5, 8. Heb. 12.14. <hi>Without holineſs no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> Conſider who they are, and what kind of People they be, that thou art to communicate with, whether the godly or ungodly; eſpecially ſeeing wicked<g ref="char:EOLhyphen"/>neſs is grown very bold in all our Streets, <hi>viz.</hi> Swearing, Curſing, Drunkenneſs, Un<g ref="char:EOLhyphen"/>cleanneſs, Men calling upon God to damn them; ſuch unholy Perſons are hot fit for this holy Ordinance; and if thou art a godly Perſon thy ſelf, then fear and tremble to communicate with ſuch Perſons; for the godly and the ungodly are not ſit Companions in this holy Ordinance, 1 <hi>Cor.</hi> 5 6, 7. God's Church ought to purge
+<pb facs="tcp:30567:2"/>
+               <!-- PDF PAGE 61 -->out the old Leaven, that they may be a new Lump, <hi>ver.</hi> 13. and put away the wicked Perſons from among them. O! it is a dreadful thing to have that Word follow a man after Receiving this Ordinance, 1 <hi>Cor.</hi> 11.29. <hi>Whoſoever eat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th and drinketh unworthily, eateth and drinketh damnation to himſelf.</hi> It is better for a mans Soul to have this Word follow him before-hand, and Ring in his Ears, than to have it Beat, Beat upon his poor Conſcience afterward.</p>
+            <p>
+               <hi>Seventhly,</hi> Conſider, in thy going to this holy ordinance, whether it be from a holy ſear of God, and from a Principle of love to God, or from a ſlaviſh fear of Man, and ſear of ſuffering ſome outward Trouble, <hi>viz.</hi> a Fine, or Impriſonment, which if it were not for thoſe latter things, it may be thou wouldeſt not do it as an act of thy own free choice, and then thou wilt be found one that dealeſt falſly with God, and with Man alſo, becauſe neither God nor Man hath thy heaſt in the buſineſs: And ſo becauſe of the fear of Man thou mayeſt loſe God's favour, and Man's favour alſo, being deemed no better than an hypocrite.</p>
+            <p>
+               <hi>Eightly,</hi> Conſider, that a little outward Reformation, <hi>viz.</hi> two or three daies before the Communion is not a ſufficient Preparation, barely to forbear, or be more ſlack in profaneneſs, to make ſome abatement of thy Curſing, Swearing, and Drinking; this is not enough.</p>
+            <p>
+               <hi>Ninthly,</hi> Conſider, that if thou ſhouldeſt be well Reformed before, yet if thou ſhouldeſt afterward fall into thy old courſe of wickedneſs, thou wilt be but as thoſe woful Souls mentioned in 2 <hi>Pet</hi> 2.22. <hi>The Dog is turned to his vomit, and the Sow that is waſhed to her wallowing in the mire.</hi>
+            </p>
+            <p>
+               <hi>Tenthly,</hi> Conſider all you that have the Care and Cure of Souls, that you be not too eaſie in admitting, and be more careful in not compelling of Perſons to this Ordinance, leſt you be partakers of other mens ſins, and ſo break the Word of God, and the good Law of the Land; therefore conſider that word, 1 <hi>Tim.</hi> 5.22. Be not partakers of other mens ſins; keep thy ſelf pute, and let that good Statute be well conſidered, 1 <hi>Edward</hi> 6. Chap. 1. Paragraph 7 in which there is a charge given to Miniſters, that beſides a godly Exhortation ſometime before the Sacra<g ref="char:EOLhyphen"/>ment to prepare the People, they muſt at the very time of Receiving the Sacra<g ref="char:EOLhyphen"/>ment, lay before the People the Benefit and Comfort promiſed to them that wor<g ref="char:EOLhyphen"/>thily Receive the holy Sacrament, and the danger and indignation of Almighty, God threatned to them which ſhall preſume to Receive the ſame unworthily, to the end that every Man may Try and Examine his own Conſcience before he ſhall Receive the ſame.</p>
+            <p>
+               <hi>Eleventhly,</hi> Conſider, that if any ſhall forbear to come to the Sacrament for ſear of ſinning againſt God, and ſo wrong their own Souls in it, then take heed that your Miniſters and Church-wardens do not take up the Trade of Informers, and put People of tender Conſciences to outward Trouble for Conſcience ſake foraſmuch as poor Souls muſt be brought to God's holy waies by uſing God's holy Word, and not by outward force.</p>
+            <p>
+               <hi>Twelfthly,</hi> Conſider, that it is a very great unhappineſs that the chief times of the Sacrament are times of ſuch great profaneneſs, <hi>viz. Eaſter, Whitſuntide,</hi> and <hi>Chriſtmaſs,</hi> they being the daies called Holy-daies, by reaſon of People being from their lawful Callings inſtead of lawful Recreations, then is more profaneneſs, more wickedneſs, more ſerving of the Devil in a few daies, than in many other weeks.</p>
+            <p>
+               <hi>Concluſion.</hi> Now foraſmuch as the poor perſecuted Diſſenters, who are Prote<g ref="char:EOLhyphen"/>ſtants, do highly love and Reverence the holy Sacrament, and do make Conſci<g ref="char:EOLhyphen"/>ence to Receive it frequently in holy and humble manner, and in godly Aſſem<g ref="char:EOLhyphen"/>blies, let ſuch as put them to Trouble for not Receiving of it at ſuch Places, and with ſuch Communicants as are againſt their Conſcience, conſider whether they can anſwer ſuch proceedings before Chriſt Jeſus the Judge of quick and dead.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p n="1">I. <hi>RAwleigh Redivivus,</hi> or the Life and Death of the Right Honourable <hi>Anthony</hi> late Earl of <hi>Shaftesbury,</hi> containing a large and Succinct S<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries of Affairs from his Cradle to his Grave. Humbly dedicated to the Proteſting Lords. By <hi>Philanax Miſopappas,</hi> in Octavo.<lb/>
+Price Bound two Shillings</p>
+            <p n="2">II. THE Romiſh Maſs-Book, faithfully Tranſlaled into <hi>Engliſh;</hi> with Notes and Obſer<g ref="char:EOLhyphen"/>vations thereupon, plainly demonſtrating the Idolatry and Blaſphemy thereof. Containing 1. The <hi>Cautelae,</hi> or Caveats of the Maſ<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2. The Canon of the Maſs. 3. The Hi<g ref="char:EOLhyphen"/>ſtory of the Maſs; ſhowing when, how, and by whom it was patched together, &amp;c. Price Bound one Shilling. Both Sold by <hi>Thomas Malthus</hi> at the <hi>Sun</hi> in the <hi>Poultrey.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Malthus</hi> at the <hi>Sun</hi> in the <hi>Poultrey.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
